@@ -1,8 +1,7 @@
 # (TITLE)
 
-## Website
-- 👉️[TITLE](GITHUB-PAGES-URL)
+## [Website](GITHUB-PAGES-URL)
 
 ## Github
-- 👉️[日本語](index.md)
-- 👉️[English](index_EN.md)
+- [日本語](index.md)
+- [English](index_EN.md)
