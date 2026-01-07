@@ -1,2 +1,2 @@
 # (TITLE)
-[English Version](index_EN.md) | [GitHub](GITHUB-URL)
+[日本語](index.md) | [English](index_EN.md) | [GitHub](GITHUB-URL)
